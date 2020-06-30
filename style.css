@@ -9,6 +9,12 @@ h1{
 h2{
     font-size: 40px;
 }
+h3{
+    font-size: 30px;
+}
+p{
+    color: gray;
+}
 .color{
     color: goldenrod;
 }
@@ -46,6 +52,23 @@ section{
 background-image: url("image/biography-bg.png");
 background-repeat: no-repeat;
 }
-.third img{
+.third {
+    background-image: url("image/latest-work-bg.png");
+    background-repeat: no-repeat;
     
+}
+.last{
+    text-align: center;
+    background-image: url("image/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    background-color: orangered;
+   width: 20%;
+   height: 10%;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
 }
